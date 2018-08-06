@@ -1,0 +1,23 @@
+{
+  "name": "picture-game",
+  "version": "1.0.0",
+  "description": "- Find position for image",
+  "homepage": "https://github.com/namthit98/picture-game/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namthit98/picture-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namthit98/picture-game/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
