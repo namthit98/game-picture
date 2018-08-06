@@ -2,7 +2,7 @@
   "name": "picture-game",
   "version": "1.0.0",
   "description": "- Find position for image",
-  "homepage": "https://namthit98.github.io/picture-game/",
+  "homepage": "https://namthit98.github.io/game-picture/",
   "main": "app.js",
   "scripts": {
     "deploy" : "gh-pages -d build"
